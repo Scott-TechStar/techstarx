@@ -1,6 +1,6 @@
 # Techstar Network  React App
 
-<img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image1.png" alt="TechStarx" style="width:25%;">   <img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image2.png" alt="TechStarx" style="width:25%;">  <img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image3.png" alt="TechStarx" style="width:25%;">
+<img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image1.png" alt="TechStarx" style="width:50%;">       <img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image2.png" alt="TechStarx" style="width:50%;">      <img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image3.png" alt="TechStarx" style="width:50%;">
 
 
 
