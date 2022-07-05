@@ -1,8 +1,8 @@
 # Techstar Network  React App
 
 <img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image1.png" alt="TechStarx" style="width:25%;height:25%;">
-<img src="[./images/image2](https://github.com/Scott-TechStar/techstarx/blob/main/images/image2.png)" alt="TechStarx" style="width:25%;height:25%;">
-<img src="[./images/image3](https://github.com/Scott-TechStar/techstarx/blob/main/images/image3.png)" alt="TechStarx" style="width:25%;height:25%;">
+<img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image2.png" alt="TechStarx" style="width:25%;height:25%;">
+<img src="https://github.com/Scott-TechStar/techstarx/blob/main/images/image3.png" alt="TechStarx" style="width:25%;height:25%;">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
